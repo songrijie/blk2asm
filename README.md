@@ -26,7 +26,7 @@ The information of this particular block is showed, including ASM disks, failgro
 
 2. 'schema.tableName', or 'tableName'
 
-The aggregated information of this particular table. 
+The aggregated information of this particular table. Refer to sample_table.out
 
 
 Execution
