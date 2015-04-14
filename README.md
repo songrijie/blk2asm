@@ -34,3 +34,9 @@ Execution
 ./blk2asm
 -- follow the interaction steps. 
 
+
+Planning
+========
+Include block check other than db blocks. 
+Control file
+File check
