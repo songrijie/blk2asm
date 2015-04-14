@@ -1,7 +1,5 @@
 #!/usr/bin/perl -w
 
-# roger.song@oracle.com
-
 use strict;
 use DBI;
 use DBD::Oracle qw(:ora_session_modes);

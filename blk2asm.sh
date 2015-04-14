@@ -1,8 +1,5 @@
 #!/bin/ksh
 
-#roger.song@oracle.com
-
-
 fname=`basename $0`
 fpath=${0%$fname}
 
