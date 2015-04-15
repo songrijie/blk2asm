@@ -32,11 +32,13 @@ The aggregated information of this particular table. Refer to sample_table.out
 Execution
 =========
 ./blk2asm
+
 -- follow the interaction steps. 
 
 
 Planning
 ========
 Include block check other than db blocks. 
-Control file
+
+Control file,
 File check
