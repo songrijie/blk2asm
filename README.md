@@ -31,7 +31,7 @@ The aggregated information of this particular table. Refer to sample_table.out
 
 Execution
 =========
-./blk2asm
+./blk2asm.sh
 
 -- follow the interaction steps. 
 
